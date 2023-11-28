@@ -34,3 +34,10 @@
 ![Windowns](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 
 > **OBS:.** all distributions
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Bin01Sys&show_icons=true&theme=vision-friendly-dark" alt="Bin01Sys's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin01Sys&layout=compact&theme=vision-friendly-dark" alt="Bin01Sys's most languages"/>
+</p>
