@@ -37,8 +37,15 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Bin01Sys=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Bin01Sys&show_icons=true&theme=vision-friendly-dark" alt="Bin01Sys's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bin01Sys&layout=compact&theme=vision-friendly-dark" alt="Bin01Sys's most languages"/>
 </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Bin01Sys=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Bin01Sys=anuraghazra&repo=convoychat" />
+</a>
